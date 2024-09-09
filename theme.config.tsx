@@ -4,14 +4,10 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Figuro UI</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/cu8code/ui.figuro',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'ui.figuro',
   },
   darkMode: true,
 }
